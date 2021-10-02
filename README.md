@@ -34,3 +34,4 @@
 </div>
   
 
+  ![Snake animation](https://github.com/DanielPin/DanielPin/blob/output/github-contribution-grid-snake.svg)
