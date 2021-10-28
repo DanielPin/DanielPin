@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/DanielPin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielPin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPin&layout=compact&langs_count=7&theme=dracula"/>    
+  <img height="180em" src="https://github-readme-stats-lime-two.vercel.app/api?username=DanielPin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-lime-two.vercel.app/api/top-langs/?username=DanielPin&layout=compact&langs_count=7&theme=dracula"/>    
     <img align="right" alt="Yoda" height="200" width="400" src="https://c.tenor.com/gK9Yd_xrxrIAAAAC/yoda-star-wars.gif">
 </div>
   
